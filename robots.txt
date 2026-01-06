@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://plastigauge.com.vn/sitemap.xml
+
+
