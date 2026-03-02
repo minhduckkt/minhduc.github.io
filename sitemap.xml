@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://plastigauge.com.vn/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://plastigauge.com.vn/about/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plastigauge.com.vn/san-pham/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://plastigauge.com.vn/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://plastigauge.com.vn/lien-he/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Landing pages sản phẩm -->
+  <url><loc>https://plastigauge.com.vn/plastigauge-pl-a/</loc></url>
+  <url><loc>https://plastigauge.com.vn/plastigauge-pl-b/</loc></url>
+  <url><loc>https://plastigauge.com.vn/plastigauge-pl-c/</loc></url>
+  <url><loc>https://plastigauge.com.vn/plastigauge-pl-d/</loc></url>
+  <url><loc>https://plastigauge.com.vn/plastigauge-pl-e/</loc></url>
+  <url><loc>https://plastigauge.com.vn/plastigauge-pl-f/</loc></url>
+  <url><loc>https://plastigauge.com.vn/plastigauge-pl-x/</loc></url>
+  <url><loc>https://plastigauge.com.vn/silicone-mineral-grease/</loc></url>
+
+</urlset>
